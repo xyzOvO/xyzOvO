@@ -46,6 +46,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=xyzOvO&theme=radical)](https://git.io/streak-stats)
 
 <p align="center">
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/xyzOvO/xyzOvO/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:2D5A5A,100:114B3A&height=3&section=header" />
 </p>
 
