@@ -33,7 +33,9 @@
 
 ### 🧰 装备清单
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,docker,nodejs,vue,cpp,android,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,docker,nodejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vue,cpp,androidstudio,git,html,css" />
   <br/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 </p>
